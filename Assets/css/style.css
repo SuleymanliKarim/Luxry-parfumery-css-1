@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+main{
+    background-color: #cbc7c7;
+    color: gold;
+    font-size: 22px;
+position: relative;
+}
+.main2{
+    background-color: gold;
+    padding: 20px;
+    right: 20px;
+    font-size: 21px;
+}
+.like{
+    color: black;
+    font-size: 23px; 
+    width: 10px;
+    height: 12px;
+    position: absolute;
+    top: 12px;
+    padding: 18px 1300px;
+}
+
+.unlike{
+    top: 15px;
+    color: red;
+    font-size: 23px;
+    width: auto;
+    padding: 20px 1200px;
+}
